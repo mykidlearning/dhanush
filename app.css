@@ -1,0 +1,18 @@
+h1 {
+    color: black;
+    background: aqua
+}
+
+ul  {
+    color: green;
+}
+
+p {
+    color: brown;
+}
+body {
+    background-color: rgb(130, 179, 130)
+}
+.testClass {
+    background: blue;
+}

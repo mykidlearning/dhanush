@@ -1,0 +1,17 @@
+/* font-family */
+body {
+    font-family: fantasy;
+}
+/* font-size */
+h1 {
+    font-size:3.0em;
+    font-family: Caveat;
+    text-decoration: underline;
+}
+p {
+    font-family: serif;
+}
+span {
+    color: red;
+    text-decoration: line-through
+}
